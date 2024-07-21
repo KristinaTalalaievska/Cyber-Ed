@@ -78,7 +78,7 @@ struct ContentView: View {
                     
                     Spacer()
                     
-                    NavigationLink(destination: SecondPageView(), isActive: $navigateToScreen2) {
+                    NavigationLink(destination: LoginPageView(), isActive: $navigateToScreen2) {
                         EmptyView()
                     }
                     .frame(width: 0, height: 0)
@@ -98,18 +98,15 @@ struct ContentView: View {
                         .font(.title3)
                         .fontWeight(.medium)
                         .foregroundColor(.white)
-
-.multilineTextAlignment(.center)
-                        .padding(.bottom, 25)
                 }
             }
-            .navigationBarHidden(true)
-        }
-    }
-}
+                        .navigationBarHidden(true)
+                    }
+                }
+            }
 
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
-}
+            struct ContentView_Previews: PreviewProvider {
+                static var previews: some View {
+                    ContentView()
+                }
+            }

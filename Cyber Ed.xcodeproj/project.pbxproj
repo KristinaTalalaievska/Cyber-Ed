@@ -16,11 +16,21 @@
 		633134322C16A671006229B8 /* Cyber_EdUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633134312C16A671006229B8 /* Cyber_EdUITests.swift */; };
 		633134342C16A671006229B8 /* Cyber_EdUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633134332C16A671006229B8 /* Cyber_EdUITestsLaunchTests.swift */; };
 		633134412C16A6A3006229B8 /* MainPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633134402C16A6A3006229B8 /* MainPageView.swift */; };
-		633134432C16A7F6006229B8 /* SecondPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633134422C16A7F6006229B8 /* SecondPageView.swift */; };
+		633134432C16A7F6006229B8 /* secondpageview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633134422C16A7F6006229B8 /* secondpageview.swift */; };
 		633134552C1F9DEF006229B8 /* CyberAdvancedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633134542C1F9DEF006229B8 /* CyberAdvancedView.swift */; };
 		633134572C1F9E42006229B8 /* PivotingFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633134562C1F9E42006229B8 /* PivotingFieldView.swift */; };
 		633134592C1F9E63006229B8 /* CyberExecutiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633134582C1F9E63006229B8 /* CyberExecutiveView.swift */; };
 		6331345B2C1FAFCE006229B8 /* CyberIntermediateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6331345A2C1FAFCD006229B8 /* CyberIntermediateView.swift */; };
+		63F6E36E2C44B40B004C83EB /* YoutubeChannelsView .swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F6E36D2C44B40B004C83EB /* YoutubeChannelsView .swift */; };
+		63F6E3702C44B49F004C83EB /* CertificationRecommendationsView .swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F6E36F2C44B49F004C83EB /* CertificationRecommendationsView .swift */; };
+		63F6E3722C44B4B7004C83EB /* onlineLabsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F6E3712C44B4B7004C83EB /* onlineLabsView.swift */; };
+		63F6E3742C44B4F2004C83EB /* certificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F6E3732C44B4F2004C83EB /* certificationsView.swift */; };
+		63F6E3762C44B508004C83EB /* handsOnPracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F6E3752C44B508004C83EB /* handsOnPracticeView.swift */; };
+		63F6E3782C44B51E004C83EB /* booksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F6E3772C44B51E004C83EB /* booksView.swift */; };
+		63F6E37A2C44CFCC004C83EB /* podcastsView .swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F6E3792C44CFCC004C83EB /* podcastsView .swift */; };
+		63F6E37C2C44CFDC004C83EB /* reportsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F6E37B2C44CFDC004C83EB /* reportsView.swift */; };
+		63F6E37E2C44CFF2004C83EB /* articlesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F6E37D2C44CFF2004C83EB /* articlesView.swift */; };
+		63F6E3802C45F22C004C83EB /* loginpageview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F6E37F2C45F22C004C83EB /* loginpageview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,11 +63,21 @@
 		633134312C16A671006229B8 /* Cyber_EdUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cyber_EdUITests.swift; sourceTree = "<group>"; };
 		633134332C16A671006229B8 /* Cyber_EdUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cyber_EdUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		633134402C16A6A3006229B8 /* MainPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageView.swift; sourceTree = "<group>"; };
-		633134422C16A7F6006229B8 /* SecondPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPageView.swift; sourceTree = "<group>"; };
+		633134422C16A7F6006229B8 /* secondpageview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondpageview.swift; sourceTree = "<group>"; };
 		633134542C1F9DEF006229B8 /* CyberAdvancedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CyberAdvancedView.swift; sourceTree = "<group>"; };
 		633134562C1F9E42006229B8 /* PivotingFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PivotingFieldView.swift; sourceTree = "<group>"; };
 		633134582C1F9E63006229B8 /* CyberExecutiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CyberExecutiveView.swift; sourceTree = "<group>"; };
 		6331345A2C1FAFCD006229B8 /* CyberIntermediateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CyberIntermediateView.swift; sourceTree = "<group>"; };
+		63F6E36D2C44B40B004C83EB /* YoutubeChannelsView .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "YoutubeChannelsView .swift"; sourceTree = "<group>"; };
+		63F6E36F2C44B49F004C83EB /* CertificationRecommendationsView .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CertificationRecommendationsView .swift"; sourceTree = "<group>"; };
+		63F6E3712C44B4B7004C83EB /* onlineLabsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onlineLabsView.swift; sourceTree = "<group>"; };
+		63F6E3732C44B4F2004C83EB /* certificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = certificationsView.swift; sourceTree = "<group>"; };
+		63F6E3752C44B508004C83EB /* handsOnPracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = handsOnPracticeView.swift; sourceTree = "<group>"; };
+		63F6E3772C44B51E004C83EB /* booksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = booksView.swift; sourceTree = "<group>"; };
+		63F6E3792C44CFCC004C83EB /* podcastsView .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "podcastsView .swift"; sourceTree = "<group>"; };
+		63F6E37B2C44CFDC004C83EB /* reportsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reportsView.swift; sourceTree = "<group>"; };
+		63F6E37D2C44CFF2004C83EB /* articlesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = articlesView.swift; sourceTree = "<group>"; };
+		63F6E37F2C45F22C004C83EB /* loginpageview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginpageview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,10 +131,20 @@
 				633134142C16A66F006229B8 /* Cyber_EdApp.swift */,
 				633134162C16A66F006229B8 /* ContentView.swift */,
 				633134402C16A6A3006229B8 /* MainPageView.swift */,
-				633134422C16A7F6006229B8 /* SecondPageView.swift */,
+				63F6E37F2C45F22C004C83EB /* loginpageview.swift */,
+				633134422C16A7F6006229B8 /* secondpageview.swift */,
 				633134562C1F9E42006229B8 /* PivotingFieldView.swift */,
+				63F6E36D2C44B40B004C83EB /* YoutubeChannelsView .swift */,
+				63F6E36F2C44B49F004C83EB /* CertificationRecommendationsView .swift */,
+				63F6E3712C44B4B7004C83EB /* onlineLabsView.swift */,
 				6331345A2C1FAFCD006229B8 /* CyberIntermediateView.swift */,
+				63F6E3732C44B4F2004C83EB /* certificationsView.swift */,
+				63F6E3752C44B508004C83EB /* handsOnPracticeView.swift */,
+				63F6E3772C44B51E004C83EB /* booksView.swift */,
 				633134542C1F9DEF006229B8 /* CyberAdvancedView.swift */,
+				63F6E37B2C44CFDC004C83EB /* reportsView.swift */,
+				63F6E3792C44CFCC004C83EB /* podcastsView .swift */,
+				63F6E37D2C44CFF2004C83EB /* articlesView.swift */,
 				633134582C1F9E63006229B8 /* CyberExecutiveView.swift */,
 				633134182C16A66F006229B8 /* Item.swift */,
 				6331341A2C16A671006229B8 /* Assets.xcassets */,
@@ -278,15 +308,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				633134432C16A7F6006229B8 /* SecondPageView.swift in Sources */,
+				633134432C16A7F6006229B8 /* secondpageview.swift in Sources */,
+				63F6E3702C44B49F004C83EB /* CertificationRecommendationsView .swift in Sources */,
 				633134572C1F9E42006229B8 /* PivotingFieldView.swift in Sources */,
 				6331345B2C1FAFCE006229B8 /* CyberIntermediateView.swift in Sources */,
+				63F6E37E2C44CFF2004C83EB /* articlesView.swift in Sources */,
 				633134172C16A66F006229B8 /* ContentView.swift in Sources */,
+				63F6E36E2C44B40B004C83EB /* YoutubeChannelsView .swift in Sources */,
 				633134592C1F9E63006229B8 /* CyberExecutiveView.swift in Sources */,
+				63F6E3782C44B51E004C83EB /* booksView.swift in Sources */,
 				633134192C16A66F006229B8 /* Item.swift in Sources */,
 				633134412C16A6A3006229B8 /* MainPageView.swift in Sources */,
+				63F6E3722C44B4B7004C83EB /* onlineLabsView.swift in Sources */,
+				63F6E37C2C44CFDC004C83EB /* reportsView.swift in Sources */,
+				63F6E3802C45F22C004C83EB /* loginpageview.swift in Sources */,
+				63F6E37A2C44CFCC004C83EB /* podcastsView .swift in Sources */,
 				633134152C16A66F006229B8 /* Cyber_EdApp.swift in Sources */,
 				633134552C1F9DEF006229B8 /* CyberAdvancedView.swift in Sources */,
+				63F6E3742C44B4F2004C83EB /* certificationsView.swift in Sources */,
+				63F6E3762C44B508004C83EB /* handsOnPracticeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
