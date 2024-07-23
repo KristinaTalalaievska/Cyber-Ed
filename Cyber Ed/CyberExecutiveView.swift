@@ -11,7 +11,6 @@ import SwiftUI
         @Environment(\.horizontalSizeClass) var horizontalSizeClass
         
         var body: some View {
-            NavigationView {
                 VStack {
                     Spacer()
 
@@ -59,7 +58,6 @@ import SwiftUI
                 .navigationBarTitle("Cyber Advanced View")
                 .navigationBarBackButtonHidden(true) // Hide default back button
                 .navigationBarHidden(true) // Hide entire navigation bar
-            }
             .navigationBarHidden(true) // Hide navigation bar for the entire view
         }
         
